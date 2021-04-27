@@ -10,7 +10,7 @@ requirements = [
 
 setuptools.setup(
     name="iterfast",
-    version="0.0.2",
+    version="0.0.3",
     author="Pradip Bankar",
     author_email="pradipbankar0097@gmail.com",
     description="A library for fast iterative operations.",
