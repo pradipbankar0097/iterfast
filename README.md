@@ -1,9 +1,11 @@
 # iterfast
  Fasten the iterations
  -----------------------
- -**Just**
+ - **Just**
+  
     `pip install iterfast`
- -**And then**
+ - **And then**
+ 
     `import iterfast`
 
  
