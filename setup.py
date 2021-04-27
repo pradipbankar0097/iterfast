@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="iterfast",
-    version="0.0.1",
+    version="0.0.2",
     author="Pradip Bankar",
     author_email="pradipbankar0097@gmail.com",
     description="A library for fast iterative operations.",
