@@ -1,2 +1,2 @@
 import iterfast
-print(iterfast.getprimes(1000000))
+print(iterfast.getprimes(2000))

@@ -1,2 +1,9 @@
 # iterfast
- fasten the iterations
+ Fasten the iterations
+ -----------------------
+ -**Just**
+    `pip install iterfast`
+ -**And then**
+    `import iterfast`
+
+ 
