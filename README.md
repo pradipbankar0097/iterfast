@@ -1,4 +1,4 @@
-# <img alt="iterfast" src="/docs/images/logo/iterfast-logo.png" height="60">
+# <img alt="iterfast" src="https://pradipbankar0097.github.io/iterfast/images/logo/iterfast-logo.png"# height="60">
  Fasten the iterations
  -----------------------
  - **Just**
